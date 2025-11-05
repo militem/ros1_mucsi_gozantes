@@ -14,5 +14,5 @@ rospy.init_node('suscriptor_basico', anonymous=True)
 # Creación de un suscriptor que escucha Strings en el topic 'primer_topic' y que ejecuta la función de callback
 rospy.Subscriber('primer_topic', String, callback)
 
-# Keep the node running until it is stopped
+# Mantener el nodo en ejecución hasta que se detenga el maestro
 rospy.spin()

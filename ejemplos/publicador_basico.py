@@ -13,5 +13,5 @@ rate = rospy.Rate(10) # 10hz (10 veces por segundo)
 while not rospy.is_shutdown(): # Mientras el maestro no se detenga
     mensaje_publicar = String() # Crear un mensaje de tipo String
     mensaje_publicar.data = f"Hola Mundo {rospy.get_time()}" # Asignar el mensaje a publicar
-    pub.publish(hello_str) # Publicar el mensaje
+    pub.publish(mensaje_publicar) # Publicar el mensaje
     rate.sleep() # Esperar lo justo para mantener la frecuencia de publicación
