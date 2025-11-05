@@ -1,6 +1,6 @@
 services:
   desktop_novnc:
-    image: mucsi_desktop_novnc
+    image: mucsi_25_26_desktop_novnc
     build:
       context: .
       dockerfile: dockerfiles/Dockerfile_novnc
@@ -27,7 +27,7 @@ services:
       - NOVNC_PORT=6081
       - VNC_PORT=5901
   local_laboratorio_gpu:
-    image: mucsi_local_laboratorio_gpu
+    image: mucsi_25_26_local_laboratorio_gpu
     build:
       context: .
       dockerfile: dockerfiles/Dockerfile_local_x
@@ -56,7 +56,7 @@ services:
               count: 1
               capabilities: [gpu]
   local_laboratorio:
-    image: mucsi_local_laboratorio
+    image: mucsi_25_26_local_laboratorio
     build:
       context: .
       dockerfile: dockerfiles/Dockerfile_local_x
