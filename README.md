@@ -34,7 +34,7 @@ Este repositorio incluye los siguientes contenedores:
 
 Los contenedores 2 y 3 están desarrollados para ser utilizados en los PCs del laboratorio de robótica. Sólo se pueden utilizar si se cumplen los siguientes requisitos:
 - El sistema operativo host es Linux (o WSL).
-- El sistema operativo host utiliza el sistema de ventanax X.
+- El sistema operativo host utiliza el sistema de ventanas X.
 - (versión GPU) El sistema tiene una gráfica NVIDIA con el nvidia-container-toolkit y sus drivers instalados.
 
 Para el uso personal fuera del laboratorio se recomienda utilizar el contenedor **desktop**.
@@ -98,7 +98,7 @@ sudo apt update
 ```
 5. Actualizar el gestor de paquetes de ROS:
 ```bash
-rosdep update
+rosdep update --include-eol-distros
 ```
 6. Instalar todas las dependencias del espacio de trabajo base:
 ```bash
