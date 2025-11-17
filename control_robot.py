@@ -66,8 +66,12 @@ class ControlRobot:
         pose_suelo = Pose()
         pose_suelo.position.z = -0.026
         self.añadir_caja_a_escena_de_planificacion(pose_suelo,"suelo",(2,2,.05))
+        self.mover_pinza()
         
     def mover_pinza(self, anchura_dedos: float, fuerza: float) -> bool:
+        """
+        Función para mover la pinza
+        """
         goal = GripperCommandGoal()
         goal.command.position = anchura_dedos
         goal.command.max_effort = fuerza
