@@ -1,0 +1,3 @@
+Symlinking /home/laboratorio/ros_workspace/devel/share/ur_gazebo/cmake/ur_gazeboConfig.cmake
+Symlinking /home/laboratorio/ros_workspace/devel/share/ur_gazebo/cmake/ur_gazeboConfig-version.cmake
+Symlinking /home/laboratorio/ros_workspace/devel/lib/pkgconfig/ur_gazebo.pc

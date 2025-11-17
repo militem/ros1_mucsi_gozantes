@@ -1,0 +1,11 @@
+Symlinking /home/laboratorio/ros_workspace/devel/share/ur_robot_driver/cmake/ur_robot_driverConfig.cmake
+Symlinking /home/laboratorio/ros_workspace/devel/share/ur_robot_driver/cmake/ur_robot_driverConfig-version.cmake
+Symlinking /home/laboratorio/ros_workspace/devel/lib/liburcl_log_handler.so
+Symlinking /home/laboratorio/ros_workspace/devel/lib/libur_robot_driver_plugin.so
+Symlinking /home/laboratorio/ros_workspace/devel/lib/ur_robot_driver/robot_state_helper
+Symlinking /home/laboratorio/ros_workspace/devel/lib/ur_robot_driver/tool_communication
+Symlinking /home/laboratorio/ros_workspace/devel/lib/ur_robot_driver/ur_robot_driver_node
+Symlinking /home/laboratorio/ros_workspace/devel/lib/ur_robot_driver/test_move
+Symlinking /home/laboratorio/ros_workspace/devel/lib/ur_robot_driver/dashboard_client
+Symlinking /home/laboratorio/ros_workspace/devel/lib/ur_robot_driver/controller_stopper_node
+Symlinking /home/laboratorio/ros_workspace/devel/lib/pkgconfig/ur_robot_driver.pc

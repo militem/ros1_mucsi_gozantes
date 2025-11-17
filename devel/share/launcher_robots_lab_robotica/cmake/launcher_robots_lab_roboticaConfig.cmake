@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/launcher_robots_lab_robotica/share/launcher_robots_lab_robotica/cmake/launcher_robots_lab_roboticaConfig.cmake

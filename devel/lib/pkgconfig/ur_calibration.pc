@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/ur_calibration/lib/pkgconfig/ur_calibration.pc

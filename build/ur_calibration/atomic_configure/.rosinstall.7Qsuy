@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/laboratorio/ros_workspace/devel/.private/ur_calibration/setup.sh

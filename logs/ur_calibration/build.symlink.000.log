@@ -1,0 +1,4 @@
+Symlinking /home/laboratorio/ros_workspace/devel/share/ur_calibration/cmake/ur_calibrationConfig-version.cmake
+Symlinking /home/laboratorio/ros_workspace/devel/share/ur_calibration/cmake/ur_calibrationConfig.cmake
+Symlinking /home/laboratorio/ros_workspace/devel/lib/ur_calibration/calibration_correction
+Symlinking /home/laboratorio/ros_workspace/devel/lib/pkgconfig/ur_calibration.pc

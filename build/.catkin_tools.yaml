@@ -1,0 +1,6 @@
+devel_space: /home/laboratorio/ros_workspace/devel
+install: false
+install_space: /home/laboratorio/ros_workspace/install
+profile: default
+source_space: /home/laboratorio/ros_workspace/src
+workspace: /home/laboratorio/ros_workspace

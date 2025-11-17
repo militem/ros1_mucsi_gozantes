@@ -1,0 +1,8 @@
+rg2_driver
+/home/laboratorio/ros_workspace/devel/.private/rg2_driver/share/rg2_driver/cmake/rg2_driver-msg-extras.cmake /home/laboratorio/ros_workspace/devel/share/rg2_driver/cmake/rg2_driver-msg-extras.cmake
+/home/laboratorio/ros_workspace/devel/.private/rg2_driver/share/rg2_driver/cmake/rg2_driverConfig.cmake /home/laboratorio/ros_workspace/devel/share/rg2_driver/cmake/rg2_driverConfig.cmake
+/home/laboratorio/ros_workspace/devel/.private/rg2_driver/share/rg2_driver/cmake/rg2_driverConfig-version.cmake /home/laboratorio/ros_workspace/devel/share/rg2_driver/cmake/rg2_driverConfig-version.cmake
+/home/laboratorio/ros_workspace/devel/.private/rg2_driver/share/rg2_driver/cmake/rg2_driver-msg-paths.cmake /home/laboratorio/ros_workspace/devel/share/rg2_driver/cmake/rg2_driver-msg-paths.cmake
+/home/laboratorio/ros_workspace/devel/.private/rg2_driver/share/roseus/ros/rg2_driver/manifest.l /home/laboratorio/ros_workspace/devel/share/roseus/ros/rg2_driver/manifest.l
+/home/laboratorio/ros_workspace/devel/.private/rg2_driver/lib/python3/dist-packages/rg2_driver/__init__.py /home/laboratorio/ros_workspace/devel/lib/python3/dist-packages/rg2_driver/__init__.py
+/home/laboratorio/ros_workspace/devel/.private/rg2_driver/lib/pkgconfig/rg2_driver.pc /home/laboratorio/ros_workspace/devel/lib/pkgconfig/rg2_driver.pc

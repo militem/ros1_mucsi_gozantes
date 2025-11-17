@@ -1,0 +1,31 @@
+ur_robot_driver: You did not request a specific build type: selecting 'RelWithDebInfo'.
+make[2]: Warning: File '/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_robot_driver/src/urcl_log_handler.cpp' has modification time 2028 s in the future
+make[2]: Warning: File '/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_robot_driver/src/robot_state_helper.cpp' has modification time 2028 s in the future
+make[2]: Warning: File '/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_robot_driver/src/controller_stopper.cpp' has modification time 2028 s in the future
+make[2]: Warning: File '/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_robot_driver/src/dashboard_client_ros.cpp' has modification time 2028 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File '/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_robot_driver/src/dashboard_client_ros.cpp' has modification time 2027 s in the future
+make[2]: Warning: File '/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_robot_driver/src/dashboard_client_ros.cpp' has modification time 2027 s in the future
+[01m[K/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:[m[K In member function ‘[01m[Kvirtual bool ur_driver::HardwareInterface::init(ros::NodeHandle&, ros::NodeHandle&)[m[K’:
+[01m[K/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:294:100:[m[K [01;35m[Kwarning: [m[K‘[01m[Kurcl::UrDriver::UrDriver(const string&, const string&, const string&, const string&, std::function<void(bool)>, bool, std::unique_ptr<urcl::ToolCommSetup>, uint32_t, uint32_t, int, double, bool, const string&, uint32_t, uint32_t)[m[K’ is deprecated: Initializing a UrDriver object with an argument list is deprecated. Please use UrDriver(const UrDriverConfiguration& config) instead. This function will be removed in May 2027. [[01;35m[K-Wdeprecated-declarations[m[K]
+  294 |         servoj_lookahead_time, non_blocking_read_, reverse_ip, trajectory_port, script_command_port[01;35m[K)[m[K);
+      |                                                                                                    [01;35m[K^[m[K
+In file included from [01m[K/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_robot_driver/include/ur_robot_driver/hardware_interface.h:64[m[K,
+                 from [01m[K/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:30[m[K:
+[01m[K/opt/ros/noetic/include/ur_client_library/ur/ur_driver.h:220:3:[m[K [01;36m[Knote: [m[Kdeclared here
+  220 |   [01;36m[KUrDriver[m[K(const std::string& robot_ip, const std::string& script_file, const std::string& output_recipe_file,
+      |   [01;36m[K^~~~~~~~[m[K
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[01m[K/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:[m[K In member function ‘[01m[Kvirtual bool ur_driver::HardwareInterface::init(ros::NodeHandle&, ros::NodeHandle&)[m[K’:
+[01m[K/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:294:100:[m[K [01;35m[Kwarning: [m[K‘[01m[Kurcl::UrDriver::UrDriver(const string&, const string&, const string&, const string&, std::function<void(bool)>, bool, std::unique_ptr<urcl::ToolCommSetup>, uint32_t, uint32_t, int, double, bool, const string&, uint32_t, uint32_t)[m[K’ is deprecated: Initializing a UrDriver object with an argument list is deprecated. Please use UrDriver(const UrDriverConfiguration& config) instead. This function will be removed in May 2027. [[01;35m[K-Wdeprecated-declarations[m[K]
+  294 |         servoj_lookahead_time, non_blocking_read_, reverse_ip, trajectory_port, script_command_port[01;35m[K)[m[K);
+      |                                                                                                    [01;35m[K^[m[K
+In file included from [01m[K/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_robot_driver/include/ur_robot_driver/hardware_interface.h:64[m[K,
+                 from [01m[K/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp:30[m[K:
+[01m[K/opt/ros/noetic/include/ur_client_library/ur/ur_driver.h:220:3:[m[K [01;36m[Knote: [m[Kdeclared here
+  220 |   [01;36m[KUrDriver[m[K(const std::string& robot_ip, const std::string& script_file, const std::string& output_recipe_file,
+      |   [01;36m[K^~~~~~~~[m[K
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.

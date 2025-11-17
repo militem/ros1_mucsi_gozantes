@@ -1,0 +1,4 @@
+universal_robot/ur_description
+/home/laboratorio/ros_workspace/devel/.private/ur_description/share/ur_description/cmake/ur_descriptionConfig-version.cmake /home/laboratorio/ros_workspace/devel/share/ur_description/cmake/ur_descriptionConfig-version.cmake
+/home/laboratorio/ros_workspace/devel/.private/ur_description/share/ur_description/cmake/ur_descriptionConfig.cmake /home/laboratorio/ros_workspace/devel/share/ur_description/cmake/ur_descriptionConfig.cmake
+/home/laboratorio/ros_workspace/devel/.private/ur_description/lib/pkgconfig/ur_description.pc /home/laboratorio/ros_workspace/devel/lib/pkgconfig/ur_description.pc

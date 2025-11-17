@@ -1,0 +1,12 @@
+Universal_Robots_ROS_Driver/ur_robot_driver
+/home/laboratorio/ros_workspace/devel/.private/ur_robot_driver/share/ur_robot_driver/cmake/ur_robot_driverConfig.cmake /home/laboratorio/ros_workspace/devel/share/ur_robot_driver/cmake/ur_robot_driverConfig.cmake
+/home/laboratorio/ros_workspace/devel/.private/ur_robot_driver/share/ur_robot_driver/cmake/ur_robot_driverConfig-version.cmake /home/laboratorio/ros_workspace/devel/share/ur_robot_driver/cmake/ur_robot_driverConfig-version.cmake
+/home/laboratorio/ros_workspace/devel/.private/ur_robot_driver/lib/liburcl_log_handler.so /home/laboratorio/ros_workspace/devel/lib/liburcl_log_handler.so
+/home/laboratorio/ros_workspace/devel/.private/ur_robot_driver/lib/libur_robot_driver_plugin.so /home/laboratorio/ros_workspace/devel/lib/libur_robot_driver_plugin.so
+/home/laboratorio/ros_workspace/devel/.private/ur_robot_driver/lib/ur_robot_driver/robot_state_helper /home/laboratorio/ros_workspace/devel/lib/ur_robot_driver/robot_state_helper
+/home/laboratorio/ros_workspace/devel/.private/ur_robot_driver/lib/ur_robot_driver/tool_communication /home/laboratorio/ros_workspace/devel/lib/ur_robot_driver/tool_communication
+/home/laboratorio/ros_workspace/devel/.private/ur_robot_driver/lib/ur_robot_driver/ur_robot_driver_node /home/laboratorio/ros_workspace/devel/lib/ur_robot_driver/ur_robot_driver_node
+/home/laboratorio/ros_workspace/devel/.private/ur_robot_driver/lib/ur_robot_driver/test_move /home/laboratorio/ros_workspace/devel/lib/ur_robot_driver/test_move
+/home/laboratorio/ros_workspace/devel/.private/ur_robot_driver/lib/ur_robot_driver/dashboard_client /home/laboratorio/ros_workspace/devel/lib/ur_robot_driver/dashboard_client
+/home/laboratorio/ros_workspace/devel/.private/ur_robot_driver/lib/ur_robot_driver/controller_stopper_node /home/laboratorio/ros_workspace/devel/lib/ur_robot_driver/controller_stopper_node
+/home/laboratorio/ros_workspace/devel/.private/ur_robot_driver/lib/pkgconfig/ur_robot_driver.pc /home/laboratorio/ros_workspace/devel/lib/pkgconfig/ur_robot_driver.pc

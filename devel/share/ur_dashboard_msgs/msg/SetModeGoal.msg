@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/ur_dashboard_msgs/share/ur_dashboard_msgs/msg/SetModeGoal.msg

@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/launcher_robots_lab_robotica/lib/pkgconfig/launcher_robots_lab_robotica.pc

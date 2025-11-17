@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/laboratorio/ros_workspace/devel/.private/rg2_driver/setup.sh

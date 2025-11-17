@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/rg2_driver/share/rg2_driver/cmake/rg2_driver-msg-extras.cmake

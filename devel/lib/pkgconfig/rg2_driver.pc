@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/rg2_driver/lib/pkgconfig/rg2_driver.pc

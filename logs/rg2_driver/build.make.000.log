@@ -1,0 +1,66 @@
+-- Using CATKIN_DEVEL_PREFIX: /home/laboratorio/ros_workspace/devel/.private/rg2_driver
+-- Using CMAKE_PREFIX_PATH: /home/laboratorio/ros_workspace/devel;/opt/ros/noetic
+-- This workspace overlays: /home/laboratorio/ros_workspace/devel;/opt/ros/noetic
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Using Debian Python package layout
+-- Using empy: /usr/lib/python3/dist-packages/em.py
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/laboratorio/ros_workspace/build/rg2_driver/test_results
+-- Forcing gtest/gmock from source, though one was otherwise available.
+-- Found gtest sources under '/usr/src/googletest': gtests will be built
+-- Found gmock sources under '/usr/src/googletest': gmock will be built
+-- Found PythonInterp: /usr/bin/python3 (found version "3.8.10") 
+-- Using Python nosetests: /usr/bin/nosetests3
+-- catkin 0.8.12
+-- BUILD_SHARED_LIBS is on
+-- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+CMake Warning at /home/laboratorio/ros_workspace/build/rg2_driver/cmake/rg2_driver-genmsg.cmake:3 (message):
+  Invoking generate_messages() without having added any message or service
+  file before.
+
+  You should either add add_message_files() and/or add_service_files() calls
+  or remove the invocation of generate_messages().
+Call Stack (most recent call first):
+  /opt/ros/noetic/share/genmsg/cmake/genmsg-extras.cmake:307 (include)
+  CMakeLists.txt:73 (generate_messages)
+
+
+-- rg2_driver: 0 messages, 0 services
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/laboratorio/ros_workspace/build/rg2_driver
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rg2_driver_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rg2_driver_generate_messages_py[0m
+[  0%] Built target rg2_driver_generate_messages_lisp
+[  0%] Built target rg2_driver_generate_messages_py
+[35m[1mScanning dependencies of target rg2_driver_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rg2_driver_generate_messages_nodejs[0m
+[  0%] Built target rg2_driver_generate_messages_nodejs
+[35m[1mScanning dependencies of target rg2_driver_generate_messages_eus[0m
+[  0%] Built target rg2_driver_generate_messages_cpp
+[100%] [34m[1mGenerating EusLisp manifest code for rg2_driver[0m
+[100%] Built target rg2_driver_generate_messages_eus
+[35m[1mScanning dependencies of target rg2_driver_generate_messages[0m
+[100%] Built target rg2_driver_generate_messages

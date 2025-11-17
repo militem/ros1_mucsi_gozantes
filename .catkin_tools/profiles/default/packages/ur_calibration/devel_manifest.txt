@@ -1,0 +1,5 @@
+Universal_Robots_ROS_Driver/ur_calibration
+/home/laboratorio/ros_workspace/devel/.private/ur_calibration/share/ur_calibration/cmake/ur_calibrationConfig-version.cmake /home/laboratorio/ros_workspace/devel/share/ur_calibration/cmake/ur_calibrationConfig-version.cmake
+/home/laboratorio/ros_workspace/devel/.private/ur_calibration/share/ur_calibration/cmake/ur_calibrationConfig.cmake /home/laboratorio/ros_workspace/devel/share/ur_calibration/cmake/ur_calibrationConfig.cmake
+/home/laboratorio/ros_workspace/devel/.private/ur_calibration/lib/ur_calibration/calibration_correction /home/laboratorio/ros_workspace/devel/lib/ur_calibration/calibration_correction
+/home/laboratorio/ros_workspace/devel/.private/ur_calibration/lib/pkgconfig/ur_calibration.pc /home/laboratorio/ros_workspace/devel/lib/pkgconfig/ur_calibration.pc

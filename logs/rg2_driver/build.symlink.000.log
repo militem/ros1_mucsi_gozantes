@@ -1,0 +1,7 @@
+Symlinking /home/laboratorio/ros_workspace/devel/share/rg2_driver/cmake/rg2_driver-msg-extras.cmake
+Symlinking /home/laboratorio/ros_workspace/devel/share/rg2_driver/cmake/rg2_driverConfig.cmake
+Symlinking /home/laboratorio/ros_workspace/devel/share/rg2_driver/cmake/rg2_driverConfig-version.cmake
+Symlinking /home/laboratorio/ros_workspace/devel/share/rg2_driver/cmake/rg2_driver-msg-paths.cmake
+Symlinking /home/laboratorio/ros_workspace/devel/share/roseus/ros/rg2_driver/manifest.l
+Symlinking /home/laboratorio/ros_workspace/devel/lib/python3/dist-packages/rg2_driver/__init__.py
+Symlinking /home/laboratorio/ros_workspace/devel/lib/pkgconfig/rg2_driver.pc

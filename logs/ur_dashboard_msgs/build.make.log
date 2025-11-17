@@ -1,0 +1,229 @@
+CMake Warning (dev) at CMakeLists.txt:2 (project):
+  Policy CMP0048 is not set: project() command manages VERSION variables.
+  Run "cmake --help-policy CMP0048" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+  The following variable(s) would be set to empty:
+
+    CMAKE_PROJECT_VERSION
+    CMAKE_PROJECT_VERSION_MAJOR
+    CMAKE_PROJECT_VERSION_MINOR
+    CMAKE_PROJECT_VERSION_PATCH
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Using CATKIN_DEVEL_PREFIX: /home/laboratorio/ros_workspace/devel/.private/ur_dashboard_msgs
+-- Using CMAKE_PREFIX_PATH: /home/laboratorio/ros_workspace/devel;/opt/ros/noetic
+-- This workspace overlays: /home/laboratorio/ros_workspace/devel;/opt/ros/noetic
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Using Debian Python package layout
+-- Using empy: /usr/lib/python3/dist-packages/em.py
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/laboratorio/ros_workspace/build/ur_dashboard_msgs/test_results
+-- Forcing gtest/gmock from source, though one was otherwise available.
+-- Found gtest sources under '/usr/src/googletest': gtests will be built
+-- Found gmock sources under '/usr/src/googletest': gmock will be built
+-- Found PythonInterp: /usr/bin/python3 (found version "3.8.10") 
+-- Using Python nosetests: /usr/bin/nosetests3
+-- catkin 0.8.12
+-- BUILD_SHARED_LIBS is on
+-- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+-- Generating .msg files for action ur_dashboard_msgs/SetMode /home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_dashboard_msgs/action/SetMode.action
+Generating for action SetMode
+-- ur_dashboard_msgs: 10 messages, 11 services
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/laboratorio/ros_workspace/build/ur_dashboard_msgs
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_SetModeGoal[0m
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_RawRequest[0m
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_RawRequest
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_SetModeGoal
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_Popup[0m
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_Load[0m
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_Popup
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_IsProgramSaved[0m
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_Load
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_IsProgramRunning[0m
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_IsProgramSaved
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_IsInRemoteControl[0m
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_IsProgramRunning
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_GetSafetyMode[0m
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_IsInRemoteControl
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_GetRobotMode[0m
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_GetSafetyMode
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_GetProgramState[0m
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_GetRobotMode
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_GetProgramState
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_AddToLog[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_SetModeAction[0m
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_AddToLog
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_SetModeAction
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_RobotMode[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_SetModeFeedback[0m
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_SetModeActionGoal[0m
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_RobotMode
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_GetLoadedProgram[0m
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_SetModeFeedback
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_SetModeActionResult[0m
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_SetModeActionGoal
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_ProgramState[0m
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_GetLoadedProgram
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_SetModeResult[0m
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_ProgramState
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_SafetyMode[0m
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_SetModeActionResult
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_SetModeResult
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _ur_dashboard_msgs_generate_messages_check_deps_SetModeActionFeedback[0m
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_SafetyMode
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target _ur_dashboard_msgs_generate_messages_check_deps_SetModeActionFeedback
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target ur_dashboard_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+make[2]: Warning: File '/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_dashboard_msgs/msg/ProgramState.msg' has modification time 2034 s in the future
+[  1%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/ProgramState.msg[0m
+[35m[1mScanning dependencies of target ur_dashboard_msgs_generate_messages_py[0m
+make[2]: Warning: File '/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_dashboard_msgs/msg/ProgramState.msg' has modification time 2034 s in the future
+[35m[1mScanning dependencies of target ur_dashboard_msgs_generate_messages_eus[0m
+make[2]: Warning: File '/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_dashboard_msgs/msg/ProgramState.msg' has modification time 2034 s in the future
+[  2%] [34m[1mGenerating Python from MSG ur_dashboard_msgs/ProgramState[0m
+[  2%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/ProgramState.msg[0m
+[  3%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/RobotMode.msg[0m
+[  4%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/RobotMode.msg[0m
+[  5%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/SafetyMode.msg[0m
+[  6%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/SetModeAction.msg[0m
+[  7%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/SafetyMode.msg[0m
+[  7%] [34m[1mGenerating Python from MSG ur_dashboard_msgs/RobotMode[0m
+[  8%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/SetModeActionGoal.msg[0m
+[  9%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/SetModeAction.msg[0m
+[ 10%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/SetModeActionResult.msg[0m
+[ 11%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/SetModeActionFeedback.msg[0m
+[ 12%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/SetModeActionGoal.msg[0m
+[ 13%] [34m[1mGenerating Python from MSG ur_dashboard_msgs/SafetyMode[0m
+[ 13%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/SetModeGoal.msg[0m
+[ 14%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/SetModeResult.msg[0m
+[ 15%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/SetModeActionResult.msg[0m
+[ 17%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/SetModeFeedback.msg[0m
+[ 18%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/SetModeActionFeedback.msg[0m
+[ 19%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/AddToLog.srv[0m
+[ 20%] [34m[1mGenerating Python from MSG ur_dashboard_msgs/SetModeAction[0m
+[ 20%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/SetModeGoal.msg[0m
+[ 21%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/GetLoadedProgram.srv[0m
+[ 22%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/GetProgramState.srv[0m
+[ 23%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/SetModeResult.msg[0m
+[ 24%] [34m[1mGenerating Python from MSG ur_dashboard_msgs/SetModeActionGoal[0m
+[ 25%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/GetRobotMode.srv[0m
+[ 26%] [34m[1mGenerating Python from MSG ur_dashboard_msgs/SetModeActionResult[0m
+[ 26%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/GetSafetyMode.srv[0m
+[ 27%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/SetModeFeedback.msg[0m
+[ 28%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/IsInRemoteControl.srv[0m
+[ 29%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/AddToLog.srv[0m
+[ 30%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/IsProgramRunning.srv[0m
+[ 31%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/GetLoadedProgram.srv[0m
+[ 32%] [34m[1mGenerating Python from MSG ur_dashboard_msgs/SetModeActionFeedback[0m
+[ 34%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/GetProgramState.srv[0m
+[ 35%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/IsProgramSaved.srv[0m
+[ 36%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/GetRobotMode.srv[0m
+[ 37%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/Load.srv[0m
+[ 37%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/GetSafetyMode.srv[0m
+[ 38%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/Popup.srv[0m
+[ 39%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/IsInRemoteControl.srv[0m
+[35m[1mScanning dependencies of target ur_dashboard_msgs_generate_messages_nodejs[0m
+make[2]: Warning: File '/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_dashboard_msgs/msg/ProgramState.msg' has modification time 2032 s in the future
+[ 40%] [34m[1mGenerating Lisp code from ur_dashboard_msgs/RawRequest.srv[0m
+[ 40%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/ProgramState.msg[0m
+[ 41%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/RobotMode.msg[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 41%] Built target ur_dashboard_msgs_generate_messages_lisp
+[ 42%] [34m[1mGenerating Python from MSG ur_dashboard_msgs/SetModeGoal[0m
+[ 43%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/SafetyMode.msg[0m
+[ 43%] [34m[1mGenerating Python from MSG ur_dashboard_msgs/SetModeResult[0m
+[35m[1mScanning dependencies of target ur_dashboard_msgs_generate_messages_cpp[0m
+make[2]: Warning: File '/home/laboratorio/ros_workspace/src/Universal_Robots_ROS_Driver/ur_dashboard_msgs/msg/ProgramState.msg' has modification time 2032 s in the future
+[ 44%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/SetModeAction.msg[0m
+[ 45%] [34m[1mGenerating C++ code from ur_dashboard_msgs/ProgramState.msg[0m
+[ 46%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/IsProgramRunning.srv[0m
+[ 47%] [34m[1mGenerating C++ code from ur_dashboard_msgs/RobotMode.msg[0m
+[ 48%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/IsProgramSaved.srv[0m
+[ 50%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/SetModeActionGoal.msg[0m
+[ 51%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/Load.srv[0m
+[ 52%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/SetModeActionResult.msg[0m
+[ 53%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/Popup.srv[0m
+[ 54%] [34m[1mGenerating EusLisp code from ur_dashboard_msgs/RawRequest.srv[0m
+[ 55%] [34m[1mGenerating C++ code from ur_dashboard_msgs/SafetyMode.msg[0m
+[ 56%] [34m[1mGenerating Python from MSG ur_dashboard_msgs/SetModeFeedback[0m
+[ 57%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/SetModeActionFeedback.msg[0m
+[ 57%] [34m[1mGenerating EusLisp manifest code for ur_dashboard_msgs[0m
+[ 58%] [34m[1mGenerating Python code from SRV ur_dashboard_msgs/AddToLog[0m
+[ 59%] [34m[1mGenerating Python code from SRV ur_dashboard_msgs/GetLoadedProgram[0m
+[ 60%] [34m[1mGenerating C++ code from ur_dashboard_msgs/SetModeAction.msg[0m
+[ 60%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/SetModeGoal.msg[0m
+[ 61%] [34m[1mGenerating C++ code from ur_dashboard_msgs/SetModeActionGoal.msg[0m
+[ 63%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/SetModeResult.msg[0m
+[ 63%] [34m[1mGenerating Python code from SRV ur_dashboard_msgs/GetProgramState[0m
+[ 64%] [34m[1mGenerating C++ code from ur_dashboard_msgs/SetModeActionResult.msg[0m
+[ 64%] [34m[1mGenerating C++ code from ur_dashboard_msgs/SetModeActionFeedback.msg[0m
+[ 65%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/SetModeFeedback.msg[0m
+[ 67%] [34m[1mGenerating Python code from SRV ur_dashboard_msgs/GetRobotMode[0m
+[ 68%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/AddToLog.srv[0m
+[ 69%] [34m[1mGenerating C++ code from ur_dashboard_msgs/SetModeGoal.msg[0m
+[ 70%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/GetLoadedProgram.srv[0m
+[ 71%] [34m[1mGenerating Python code from SRV ur_dashboard_msgs/GetSafetyMode[0m
+[ 72%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/GetProgramState.srv[0m
+[ 73%] [34m[1mGenerating C++ code from ur_dashboard_msgs/SetModeResult.msg[0m
+[ 74%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/GetRobotMode.srv[0m
+[ 75%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/GetSafetyMode.srv[0m
+[ 74%] [34m[1mGenerating Python code from SRV ur_dashboard_msgs/IsInRemoteControl[0m
+[ 76%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/IsInRemoteControl.srv[0m
+[ 76%] [34m[1mGenerating Python code from SRV ur_dashboard_msgs/IsProgramRunning[0m
+[ 77%] [34m[1mGenerating Python code from SRV ur_dashboard_msgs/IsProgramSaved[0m
+[ 78%] [34m[1mGenerating Python code from SRV ur_dashboard_msgs/Load[0m
+[ 79%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/IsProgramRunning.srv[0m
+[ 80%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/IsProgramSaved.srv[0m
+[ 81%] [34m[1mGenerating C++ code from ur_dashboard_msgs/AddToLog.srv[0m
+[ 82%] [34m[1mGenerating C++ code from ur_dashboard_msgs/SetModeFeedback.msg[0m
+[ 84%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/Load.srv[0m
+[ 85%] [34m[1mGenerating C++ code from ur_dashboard_msgs/GetLoadedProgram.srv[0m
+[ 86%] [34m[1mGenerating C++ code from ur_dashboard_msgs/GetProgramState.srv[0m
+[ 86%] [34m[1mGenerating C++ code from ur_dashboard_msgs/GetRobotMode.srv[0m
+[ 87%] [34m[1mGenerating Python code from SRV ur_dashboard_msgs/Popup[0m
+[ 88%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/Popup.srv[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 89%] [34m[1mGenerating Javascript code from ur_dashboard_msgs/RawRequest.srv[0m
+[ 90%] [34m[1mGenerating Python code from SRV ur_dashboard_msgs/RawRequest[0m
+[ 91%] [34m[1mGenerating C++ code from ur_dashboard_msgs/GetSafetyMode.srv[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 91%] Built target ur_dashboard_msgs_generate_messages_eus
+[ 91%] Built target ur_dashboard_msgs_generate_messages_nodejs
+[ 92%] [34m[1mGenerating C++ code from ur_dashboard_msgs/IsProgramRunning.srv[0m
+[ 93%] [34m[1mGenerating C++ code from ur_dashboard_msgs/IsInRemoteControl.srv[0m
+[ 94%] [34m[1mGenerating C++ code from ur_dashboard_msgs/IsProgramSaved.srv[0m
+[ 96%] [34m[1mGenerating C++ code from ur_dashboard_msgs/Popup.srv[0m
+[ 96%] [34m[1mGenerating C++ code from ur_dashboard_msgs/Load.srv[0m
+[ 97%] [34m[1mGenerating C++ code from ur_dashboard_msgs/RawRequest.srv[0m
+[ 98%] [34m[1mGenerating Python msg __init__.py for ur_dashboard_msgs[0m
+[100%] [34m[1mGenerating Python srv __init__.py for ur_dashboard_msgs[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[100%] Built target ur_dashboard_msgs_generate_messages_cpp
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[100%] Built target ur_dashboard_msgs_generate_messages_py
+[35m[1mScanning dependencies of target ur_dashboard_msgs_generate_messages[0m
+[100%] Built target ur_dashboard_msgs_generate_messages
