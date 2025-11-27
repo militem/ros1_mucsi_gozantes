@@ -12,7 +12,7 @@ def callback(data: String) -> None:
 rospy.init_node('suscriptor_basico', anonymous=True)
 
 # Creación de un suscriptor que escucha Strings en el topic 'primer_topic' y que ejecuta la función de callback
-rospy.Subscriber('primer_topic', String, callback)
+rospy.Subscriber('/usb_cam/image_raw', String, callback)
 
 # Mantener el nodo en ejecución hasta que se detenga el maestro
 rospy.spin()

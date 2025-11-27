@@ -11,6 +11,5 @@ export CMAKE_PREFIX_PATH="/home/laboratorio/ros_workspace/devel/.private/ur_gaze
 export LD_LIBRARY_PATH="/home/laboratorio/ros_workspace/devel/.private/ur_gazebo/lib:$LD_LIBRARY_PATH"
 export PKG_CONFIG_PATH="/home/laboratorio/ros_workspace/devel/.private/ur_gazebo/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/laboratorio/ros_workspace/build/ur_gazebo'
-export PYTHONPATH="/home/laboratorio/ros_workspace/devel/lib/python3/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/laboratorio/ros_workspace/devel/.private/ur_gazebo/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/laboratorio/ros_workspace/src/universal_robot/ur_gazebo:$ROS_PACKAGE_PATH"

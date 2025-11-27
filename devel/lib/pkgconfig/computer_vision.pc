@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/computer_vision/lib/pkgconfig/computer_vision.pc

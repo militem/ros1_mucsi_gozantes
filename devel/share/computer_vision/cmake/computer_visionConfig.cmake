@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/computer_vision/share/computer_vision/cmake/computer_visionConfig.cmake

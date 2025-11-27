@@ -1,0 +1,3 @@
+Symlinking /home/laboratorio/ros_workspace/devel/share/computer_vision/cmake/computer_visionConfig-version.cmake
+Symlinking /home/laboratorio/ros_workspace/devel/share/computer_vision/cmake/computer_visionConfig.cmake
+Symlinking /home/laboratorio/ros_workspace/devel/lib/pkgconfig/computer_vision.pc

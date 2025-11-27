@@ -465,8 +465,8 @@ CMakeFiles/doxygen.dir/clean:
 # Target rules for target CMakeFiles/_run_tests_ur3_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml.dir
 
 # All Build rule for target.
-CMakeFiles/_run_tests_ur3_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml.dir/all: CMakeFiles/clean_test_results_ur3_moveit_config.dir/all
 CMakeFiles/_run_tests_ur3_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml.dir/all: CMakeFiles/tests.dir/all
+CMakeFiles/_run_tests_ur3_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml.dir/all: CMakeFiles/clean_test_results_ur3_moveit_config.dir/all
 	$(MAKE) -f CMakeFiles/_run_tests_ur3_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml.dir/build.make CMakeFiles/_run_tests_ur3_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml.dir/depend
 	$(MAKE) -f CMakeFiles/_run_tests_ur3_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml.dir/build.make CMakeFiles/_run_tests_ur3_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/laboratorio/ros_workspace/build/ur3_moveit_config/CMakeFiles --progress-num= "Built target _run_tests_ur3_moveit_config_roslaunch-check_tests_moveit_planning_execution.xml"

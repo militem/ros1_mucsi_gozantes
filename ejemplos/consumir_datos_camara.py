@@ -3,8 +3,6 @@ from cv_bridge import CvBridge
 from sensor_msgs.msg import Image
 from copy import deepcopy
 
-
-
 class NodoCamara:
     def __init__(self) -> None:
         rospy.init_node('nodo_camara')
