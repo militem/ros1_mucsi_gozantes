@@ -25,11 +25,15 @@ RUN apt update && apt install -y rviz \
          xauth \
          ros-noetic-robot-state-publisher \
          ros-noetic-joint-state-publisher \
+         ros-noetic-camera-calibration \
+         ros-noetic-image-view \
          git \
          ros-noetic-usb-cam \
          htop \
          sudo \
-         libxmlrpc-core-c3-dev
+         libxmlrpc-core-c3-dev \
+         libcanberra-gtk-module \
+         libcanberra-gtk3-module 
 
 RUN pip install catkin_tools \
                 tensorboard \
